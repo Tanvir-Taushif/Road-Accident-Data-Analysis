@@ -1,15 +1,14 @@
 # 🚦 Road Accident Data Analysis Dashboard
 
+![Road Accident Data Analysis Dashboard](https://github.com/Tanvir-Taushif/Road-Accident-Data-Analysis/blob/main/Images/Road%20Accident%20Data%20Analysis.JPG)
+
 This repository contains the files and documentation for my **Dynamic Excel Dashboard** project. This is part of my **Data Analysis and Analytics Engineering learning journey**, where I analyzed road accident data to gain insights and build an interactive dashboard.
 
-## 📊 Project Overview
+---
 
-The project involved analyzing a dataset of **300,000+ rows** with 24 columns covering:
-- Accident details (Index, date, severity, location coordinates, etc.)
-- Environmental factors (weather, road type, light conditions, etc.)
-- Vehicle and casualties information (vehicle types, numbers, etc.)
+## 📊 Dataset
 
-The final deliverable is a **Dynamic Excel Dashboard** that allows users to filter and explore accident patterns interactively.
+The dataset used for this analysis is available [here](https://github.com/Tanvir-Taushif/free-datasets-for-learning/tree/main/Road%20Accident%20Dataset).
 
 ---
 
@@ -38,7 +37,7 @@ Through this project, I:
 
 ## 📂 Files in This Repository
 - `Road Accident Data Analysis.pdf`: Detailed project report, including the dashboard snapshot and analysis.
-- (Optional) Any additional files or code can be added here.
+- Link to dataset: [Road Accident Dataset](https://github.com/Tanvir-Taushif/free-datasets-for-learning/tree/main/Road%20Accident%20Dataset)
 
 ---
 
@@ -66,4 +65,3 @@ I am a passionate learner exploring **Data Analysis** and **Analytics Engineerin
 
 ### 🏷️ Hashtags
 `#DataAnalysis` `#ExcelDashboard` `#RoadSafety` `#DataVisualization` `#LearningJourney`
-
